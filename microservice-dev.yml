@@ -1,0 +1,13 @@
+# microservice-dev.yml
+server:
+  port: 8081
+
+custom:
+  message: "Ciao, questo è l'ambiente di sviluppo!"
+  featureX-enabled: true
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dev_db
+    username: dev_user
+    password: dev_password
