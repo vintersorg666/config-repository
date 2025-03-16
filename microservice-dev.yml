@@ -1,6 +1,6 @@
 # microservice-dev.yml
 server:
-  port: 666
+  port: 777
 
 custom:
   message: "Ciao, questo è l'ambiente di sviluppo!"
