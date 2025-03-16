@@ -1,6 +1,6 @@
 # microservice-dev.yml
 server:
-  port: 666
+  port: 8081
 
 custom:
   message: "Ciao, questo è l'ambiente di prod!"
